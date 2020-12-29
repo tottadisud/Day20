@@ -1,0 +1,31 @@
+Roles and Responsibilities
+
+Analyzing the requirements from clients
+
+Arranging Test Environment to execute the test cases
+
+Conducting Review Meetings
+
+Analyzing and executing Test Cases
+
+Defect Tracking
+
+Manual Tester Deliverables
+
+Test Plans
+
+Reporting of bugs to developers so as to fix it
+
+Test Cases for various testing processes
+
+Summary Reports
+
+Test Data for test cases
+
+Should have experience in agile methodology and scrum.
+
+Lesson Learnt documents (based on testing inputs from previous project)
+
+Suggestion Documents (to improve software quality)
+
+Test Scenarios
